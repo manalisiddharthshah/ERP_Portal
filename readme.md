@@ -15,6 +15,3 @@ Solutions:-
    
    (Load with:- localhost/login)
    
-   Test account:-
-    -Email Id:- manali@gmail.com
-    -Password:- Manali@123
