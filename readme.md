@@ -12,3 +12,9 @@ Solutions:-
    - Create a login , logout for the same for all users.
    - Add Change password for each user.
    - Each user can see all his information on dashboard, and assigned task on the dashboard
+   
+   (Load with:- localhost/login)
+   
+   Test account:-
+    -Email Id:- manali@gmail.com
+    -Password:- Manali@123
